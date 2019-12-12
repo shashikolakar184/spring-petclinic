@@ -462,7 +462,7 @@
                 <artifactId>dockerfile-maven-plugin</artifactId>
                 <version>1.4.9</version>
                 <configuration>
-                    <repository>trranjith/${project.artifactId}</repository>
+                    <repository>shashikolakar/${project.artifactId}</repository>
                 </configuration>
             </plugin>
             <!-- end::plugin[] -->
